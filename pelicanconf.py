@@ -6,11 +6,14 @@ AUTHOR = u'سُبحه'
 SITENAME = u'بلاگ سُبحه'
 SITEURL = ''
 THEME = 'theme'
+PLUGIN_PATH = 'jalali'
+PLUGINS = ['jalali']
 
 
 TIMEZONE = 'Asia/Tehran'
 
 DEFAULT_LANG = u'fa'
+DATE_FORMATS = {'fa': '%d %B %Y'}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
