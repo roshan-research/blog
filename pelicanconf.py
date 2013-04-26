@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 import os
-import sys
 
 script_path = os.path.realpath(__file__)
 blog_base_path = os.path.dirname(script_path)
@@ -12,12 +11,6 @@ SITENAME = u'بلاگ سُبحه'
 SITEURL = ''
 THEME = 'theme'
 PLUGIN_PATH = os.path.join(blog_base_path, 'plugins/')
-
-# Only for Pelican Jalali
-sys.path.append(PLUGIN_PATH + 'pelican-jalali/jdatetime')
-
-print PLUGIN_PATH
-print sys.path
 PLUGINS = ['pelican-jalali']
 
 TIMEZONE = 'Asia/Tehran'
