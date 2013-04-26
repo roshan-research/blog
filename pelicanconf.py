@@ -24,7 +24,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  ()
+LINKS = ()
 
 # Social widget
 SOCIAL = ()

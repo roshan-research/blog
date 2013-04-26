@@ -3,6 +3,12 @@ Blog
 
 Sobhe's Blog
 
+Installing Dependencies
+-----------------------
+```
+pip install pelican Markdown
+```
+
 
 Becarefull! Submodules
 ----------------------
