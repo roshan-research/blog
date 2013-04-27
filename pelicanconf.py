@@ -9,6 +9,9 @@ blog_base_path = os.path.dirname(script_path)
 AUTHOR = u'سُبحه'
 SITENAME = u'بلاگ سُبحه'
 SITEURL = ''
+ARTICLE_URL = '{slug}/'
+ARTICLE_SAVE_AS = '{slug}/index.html'
+
 THEME = 'theme'
 PLUGIN_PATH = os.path.join(blog_base_path, 'plugins/')
 PLUGINS = ['pelican-jalali']
