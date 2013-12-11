@@ -1,5 +1,5 @@
 Title: با هم و برای او
-Slug: in-the-name-of-god.md
+Slug: in-the-name-of-god
 Date: 2011-12-23 14:41
 Tags: سُبحه
 Author: علیرضا نوریان

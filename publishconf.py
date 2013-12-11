@@ -20,4 +20,3 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 DISQUS_SITENAME = "sobheblog"
-# GOOGLE_ANALYTICS = ""
