@@ -11,6 +11,7 @@ SITENAME = u'بلاگ سُبحه'
 SITEURL = ''
 ARTICLE_URL = '{slug}/'
 ARTICLE_SAVE_AS = '{slug}/index.html'
+READERS = {'html': None}
 
 THEME = 'theme'
 PLUGIN_PATH = os.path.join(blog_base_path, 'plugins/')
