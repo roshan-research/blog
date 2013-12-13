@@ -1,6 +1,0 @@
-[submodule "plugins/pelican-jalali"]
-	path = plugins/pelican-jalali
-	url = git@github.com:sobhe/pelican-jalali.git
-[submodule "theme"]
-	path = theme
-	url = git@github.com:sobhe/pelican-sobhe.git
