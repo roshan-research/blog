@@ -20,7 +20,7 @@ PLUGINS = ['pelican-jalali']
 TIMEZONE = 'Asia/Tehran'
 
 DEFAULT_LANG = u'fa'
-DATE_FORMATS = {'fa': '%d %B %Y'}
+DATE_FORMATS = {'fa': '%-d %B %Y'}
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
